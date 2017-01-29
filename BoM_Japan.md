@@ -6,7 +6,7 @@ Make sure you have an Arduino or equivalent microprocessor, big enough sheets of
 
 |No|Amount|Description|Supplier NL|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
-|1|1|NEMA17 Stepper motor|[RepRapWorld](http://reprapworld.com/?products_details&products_id=94&cPath=1614)|12.50|
+|1|1|NEMA17 ステッパーモーター|[Amazon](http://amzn.asia/gKh3T0I)|12.50|
 |2|1|Pololu DRV8825 Stepper Driver|[RepRapWorld](http://reprapworld.com/?products_details&products_id=356)|11.99|
 |3|2|Bearing 608ZZ|[RepRapWorld](http://reprapworld.com/?products_details&products_id/24/cPath/1595_1596)|0.25|
 |4|1|100 uF capacitor|[RepRapWorld](http://reprapworld.com/?products_details&products_id=45&cPath=1591_1600_1603), [Farnell](http://nl.farnell.com/panasonic-electronic-components/eeufr1c101/cap-alu-elec-100uf-16v-rad/dp/1907228)|0.20|
