@@ -11,7 +11,7 @@ Make sure you have an Arduino or equivalent microprocessor, big enough sheets of
 |3|2|ベアリング 608ZZ|[Monotaro](https://www.monotaro.com/p/0825/0243/)|0.25|
 |4|1|100 uF コンデンサ|[Akizuki](http://akizukidenshi.com/catalog/g/gP-05002/)|0.20|
 |5|1|ヒートシンク|[Amazon]( http://amzn.asia/fWthTyB), [Monotaro](https://www.monotaro.com/p/3863/7557/)|1.25|
-|10|ワッシャー|[Monotaro](https://www.monotaro.com/g/00010511/), [Amazon](http://amzn.asia/4aP8dYI)|1.99|
+|6|10|ワッシャー|[Monotaro](https://www.monotaro.com/g/00010511/), [Amazon](http://amzn.asia/4aP8dYI)|1.99|
 |6|1|ファン 40x40mm|[Monotaro](https://www.monotaro.com/p/7602/6666/)|1.55|
 |7|1|ポテンショメータ|[Monotaro](https://www.monotaro.com/p/3918/8222/)|0.42|
 |8|1|Knob|[Farnell](http://nl.farnell.com/multicomp/cr-r4-7/knob-soft-touch-d-shaft-black/dp/1440012?ost=1440012)|0.23|
