@@ -7,10 +7,10 @@ Make sure you have an Arduino or equivalent microprocessor, big enough sheets of
 |No|Amount|Description|Supplier NL|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
 |1|1|NEMA17 ステッパーモーター|[Amazon](http://amzn.asia/gKh3T0I)|12.50|
-|2|1|Pololu DRV8825 Stepper Driver|[RepRapWorld](http://reprapworld.com/?products_details&products_id=356)|11.99|
-|3|2|Bearing 608ZZ|[RepRapWorld](http://reprapworld.com/?products_details&products_id/24/cPath/1595_1596)|0.25|
-|4|1|100 uF capacitor|[RepRapWorld](http://reprapworld.com/?products_details&products_id=45&cPath=1591_1600_1603), [Farnell](http://nl.farnell.com/panasonic-electronic-components/eeufr1c101/cap-alu-elec-100uf-16v-rad/dp/1907228)|0.20|
-|5|1|Heatsink|[RepRapWorld](http://reprapworld.com/?products_details&products_id/67/cPath/1591_1600)|1.25|
+|2|1|Pololu DRV8825 Stepper Driver|No.|11.99|
+|3|2|ベアリング 608ZZ|[Monotaro](https://www.monotaro.com/g/00138315/)|0.25|
+|4|1|100 uF コンデンサ|[Monotaro](http://akizukidenshi.com/catalog/g/gP-05002/)|0.20|
+|5|1|ヒートシンク|[Amazon]( http://amzn.asia/fWthTyB), [Monotaro](https://www.monotaro.com/g/00363680/)|1.25|
 |6|1|10 pack washers|[RepRapWorld](http://reprapworld.com/?products_details&products_id/241/cPath/1595_1597_1634)|1.99|
 |6|1|Fan 40x40mm|[EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=14963)|1.55|
 |7|1|Rotary encoder|[Farnell](http://nl.farnell.com/alps/ec12e1240406/encoder-vertical-12mm-12det-12ppr/dp/2065052), [iPrototype](https://iprototype.nl/products/components/buttons-switches/rotary-encoder), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=9553)|0.42|
