@@ -16,12 +16,12 @@ Make sure you have an Arduino or equivalent microprocessor, big enough sheets of
 |7|1|ポテンショメータ|[Monotaro](https://www.monotaro.com/p/3918/8222/)|0.42|
 |8|1|Knob|[Farnell](http://nl.farnell.com/multicomp/cr-r4-7/knob-soft-touch-d-shaft-black/dp/1440012?ost=1440012)|0.23|
 |9|2|10KΩ 抵抗|[Akizuki](http://akizukidenshi.com/catalog/g/gR-25103/)|0.03|
-|10|2|10nF capacitor|[Farnell](http://nl.farnell.com/multicomp/mc0805y103m500a5-08mm/cap-mlcc-y5v-10nf-50v-rad/dp/2309024), [iPrototype](https://iprototype.nl/products/components/capacitors/capacitor-0.01-uf), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=5695)|0.14|
-|11|2|100nF capacitor|[Farnell](http://nl.farnell.com/vishay/k104k15x7rf53h5/cap-mlcc-x7r-100nf-50v-rad/dp/1141777), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=13443)|0.14|
-|12|1|12V 5A Power supply|[Farnell](http://nl.farnell.com/ideal-power/jyh32-1205000/adaptor-ac-dc-desktop-12v-5a/dp/2532631), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=13247)|38.13|
-|13|4|Rubber feet|[Conrad](https://www.conrad.nl/nl/toolcraft-elastische-buffer-zelfklevend-pd2104sw-x-h-10-mm-x-4-mm-zwart-1-stuks-401489.html)|0.08|
-|14|1|I2C LCD display|[iPrototype](https://iprototype.nl/products/components/led-lcd/lcd16x2-I2C-BL), [Hackerstore](https://www.hackerstore.nl/Artikel/82)|8.95|
-|15|1|Breadboard|[Farnell](http://nl.farnell.com/pro-signal/psg-bb-400/breadboard-400-pin-white/dp/2503765). [iPrototype](https://iprototype.nl/products/accessoires/breadboards-prints/halfbreadboard)|2.56|
+|10|2|0.01μF コンデンサ|[Akizuki](http://akizukidenshi.com/catalog/g/gP-11150/)|0.14|
+|11|2|0.1μF コンデンサ|[Akizuki](http://akizukidenshi.com/catalog/g/gP-11154/)|0.14|
+|12|1|12V 5A 電源|[Monotaro](https://www.monotaro.com/p/3321/0502/), [Akizuki](http://akizukidenshi.com/catalog/g/gM-10663/)|1700|
+|13|4|ゴム足|[Amazon](http://amzn.asia/bm0HBuH)|0.08|
+|14|1|I2C LCD ディスプレイ|[RS Online](http://jp.rs-online.com/web/p/lcd-monochrome-displays/7436134/)|8.95|
+|15|1|ブレッドボード|[Monotaro](https://www.monotaro.com/g/00345713/?t.q=%83u%83%8C%83b%83h%83%7B%81%5B%83h)|2.56|
 
 *Estimate total*: EUR 80.41
 
